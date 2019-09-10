@@ -29,4 +29,3 @@ node('docker') {
     server.upload(uploadSpec)
   }
 }
-//
